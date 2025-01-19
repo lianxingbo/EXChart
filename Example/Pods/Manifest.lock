@@ -1,0 +1,16 @@
+PODS:
+  - EXChart (1.0.0)
+
+DEPENDENCIES:
+  - EXChart (from `../`)
+
+EXTERNAL SOURCES:
+  EXChart:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EXChart: 10ca878fba91a2ae30626f77841c97d998cc5057
+
+PODFILE CHECKSUM: 82ec2d9bc654d58ea16b4fba5fb32cf67b4c8c83
+
+COCOAPODS: 1.16.2

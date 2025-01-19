@@ -1,0 +1,6 @@
+framework module Pods_EXChart_Example {
+  umbrella header "Pods-EXChart_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
