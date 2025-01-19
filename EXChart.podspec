@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/DaboMac/EXChart'
+  s.homepage         = 'https://github.com/lianxingbo/EXChart'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'DaboMac' => 'Dabo_iOS@163.com' }
-  s.source           = { :git => 'https://github.com/DaboMac/EXChart.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/lianxingbo/EXChart', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '14.0'
